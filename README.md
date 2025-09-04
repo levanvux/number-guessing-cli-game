@@ -39,7 +39,7 @@ Features:
 
 3. Start the game:
    ```bash
-   node index.js
+   npm run start
    ```
 
 ## 🎮 How to Play

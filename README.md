@@ -27,8 +27,8 @@ Features:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/YOUR-USERNAME/Number-Guessing-Game.git
-   cd Number-Guessing-Game
+   git clone https://github.com/levanvux/number-guessing-cli-game.git
+   cd number-guessing-cli-game
    ```
 
 2. Install dependencies:
